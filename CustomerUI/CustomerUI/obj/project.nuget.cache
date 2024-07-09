@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e687zQvdXAqyP531I82ZZKY1CcFZLP5lGd9AKu/zjf4XKoCf8nwI+ZMIje5we68JzjarhCXwt+phfrZ6olhclQ==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\Pinewood\\CustomerUI\\CustomerUI\\CustomerUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abino\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

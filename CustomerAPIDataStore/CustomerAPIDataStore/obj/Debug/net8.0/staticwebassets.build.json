@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fnKIkXkCrbuSjBor1r2+U8gK+32E04vyuqTKw94EK9g=",
+  "Source": "CustomerAPIDataStore",
+  "BasePath": "_content/CustomerAPIDataStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

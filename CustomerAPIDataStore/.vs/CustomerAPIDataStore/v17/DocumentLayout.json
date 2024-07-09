@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|c:\\source\\pinewood\\customerapidatastore\\customerapidatastore\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|solutionrelative:customerapidatastore\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|c:\\source\\pinewood\\customerapidatastore\\customerapidatastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|solutionrelative:customerapidatastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|c:\\source\\pinewood\\customerapidatastore\\customerapidatastore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|solutionrelative:customerapidatastore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|c:\\source\\pinewood\\customerapidatastore\\customerapidatastore\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|solutionrelative:customerapidatastore\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|c:\\source\\pinewood\\customerapidatastore\\customerapidatastore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|solutionrelative:customerapidatastore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|c:\\source\\pinewood\\customerapidatastore\\customerapidatastore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|solutionrelative:customerapidatastore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|c:\\source\\pinewood\\customerapidatastore\\customerapidatastore\\migrations\\20240709222419_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984560C4-B5BE-495E-B8B7-4B324E940DAD}|CustomerAPIDataStore\\CustomerAPIDataStore.csproj|solutionrelative:customerapidatastore\\migrations\\20240709222419_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240709222419_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Migrations\\20240709222419_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CustomerAPIDataStore\\Migrations\\20240709222419_InitialCreate.cs",
+              "ToolTip": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Migrations\\20240709222419_InitialCreate.cs",
+              "RelativeToolTip": "CustomerAPIDataStore\\Migrations\\20240709222419_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:24:19.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerAPIDataStore\\appsettings.json",
+              "ToolTip": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\appsettings.json",
+              "RelativeToolTip": "CustomerAPIDataStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T17:24:46.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerAPIDataStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerAPIDataStore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T16:39:13.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerAPIDataStore\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerAPIDataStore\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwBEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:34:30.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerAPIDataStore\\Program.cs",
+              "ToolTip": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Program.cs",
+              "RelativeToolTip": "CustomerAPIDataStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:19:34.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Models\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "CustomerAPIDataStore\\Models\\CustomerContext.cs",
+              "ToolTip": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Models\\CustomerContext.cs",
+              "RelativeToolTip": "CustomerAPIDataStore\\Models\\CustomerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:18:56.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerAPIDataStore\\Models\\Customer.cs",
+              "ToolTip": "C:\\Source\\Pinewood\\CustomerAPIDataStore\\CustomerAPIDataStore\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerAPIDataStore\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:17:54.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
